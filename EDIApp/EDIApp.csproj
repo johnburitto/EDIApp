@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EDIApp.Crypto\EDIApp.Crypto.csproj" />
+    <ProjectReference Include="..\EDIApp.Generators\EDIApp.Generators.csproj" />
+    <ProjectReference Include="..\EDIApp.Parsers\EDIApp.Parsers.csproj" />
+    <ProjectReference Include="..\EDIApp.Socket\EDIApp.Socket.csproj" />
+  </ItemGroup>
+
+</Project>

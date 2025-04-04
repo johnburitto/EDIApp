@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EDIApp", "EDIApp\EDIApp.csproj", "{D2A56E9E-B7A4-4179-83C4-CA45B46716E1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EDIApp.Crypto", "EDIApp.Crypto\EDIApp.Crypto.csproj", "{9176DE7D-2D95-4597-867F-A30E1DD92FF7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EDIApp.Common", "EDIApp.Common\EDIApp.Common.csproj", "{71CD3D8D-C8A5-4736-B78A-9795936E205E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EDIApp.Generators", "EDIApp.Generators\EDIApp.Generators.csproj", "{55C0A78F-CAB6-4658-BA82-BAA7342E041B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EDIApp.Parsers", "EDIApp.Parsers\EDIApp.Parsers.csproj", "{04D8F301-192D-4B9E-B9BF-5AC180478F62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDIApp.Socket", "EDIApp.Socket\EDIApp.Socket.csproj", "{65010504-0B76-4712-ADDF-28E446969FB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2A56E9E-B7A4-4179-83C4-CA45B46716E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2A56E9E-B7A4-4179-83C4-CA45B46716E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2A56E9E-B7A4-4179-83C4-CA45B46716E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2A56E9E-B7A4-4179-83C4-CA45B46716E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9176DE7D-2D95-4597-867F-A30E1DD92FF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9176DE7D-2D95-4597-867F-A30E1DD92FF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9176DE7D-2D95-4597-867F-A30E1DD92FF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9176DE7D-2D95-4597-867F-A30E1DD92FF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71CD3D8D-C8A5-4736-B78A-9795936E205E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71CD3D8D-C8A5-4736-B78A-9795936E205E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71CD3D8D-C8A5-4736-B78A-9795936E205E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71CD3D8D-C8A5-4736-B78A-9795936E205E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55C0A78F-CAB6-4658-BA82-BAA7342E041B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C0A78F-CAB6-4658-BA82-BAA7342E041B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55C0A78F-CAB6-4658-BA82-BAA7342E041B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55C0A78F-CAB6-4658-BA82-BAA7342E041B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04D8F301-192D-4B9E-B9BF-5AC180478F62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04D8F301-192D-4B9E-B9BF-5AC180478F62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04D8F301-192D-4B9E-B9BF-5AC180478F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04D8F301-192D-4B9E-B9BF-5AC180478F62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65010504-0B76-4712-ADDF-28E446969FB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65010504-0B76-4712-ADDF-28E446969FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65010504-0B76-4712-ADDF-28E446969FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65010504-0B76-4712-ADDF-28E446969FB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59B9B1D6-285D-40B6-B842-45B0575D3FF2}
+	EndGlobalSection
+EndGlobal

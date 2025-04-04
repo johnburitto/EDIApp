@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EDIApp.Common.Constants.EDIBlocksNames">
+    <Position X="1.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAEIAAAEAACJAAAIC2AGSICAAOAAQBAgAAAAAAAyU=</HashCode>
+      <FileName>Constants\EDIBlocksNames.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EDIApp.Common.Constants.ExitAction">
+    <Position X="3.5" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Constants\ExitAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EDIApp.Common.Dtos.InvoiceDto">
+    <Position X="6" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAABAAAACQAACAAAAEAAAAAAAAAAAAACQ=</HashCode>
+      <FileName>Dtos\InvoiceDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EDIApp.Common.Dtos.PaymentDto">
+    <Position X="9.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAIAAAAAAAAAAAIAmAACACAAEAAAAAgAAAAAIAAA=</HashCode>
+      <FileName>Dtos\PaymentDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EDIApp.Common.Logging.Logger">
+    <Position X="7.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAYAAAAAAABAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logging\Logger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="EDIApp.Common.Enums.CryptoAlgorithms">
+    <Position X="6" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\CryptoAlgorithms.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="EDIApp.Common.Enums.EDIType">
+    <Position X="7.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAACAAAAAAAAAQA=</HashCode>
+      <FileName>Enums\EDIType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
